@@ -1,4 +1,4 @@
-# Machine Learning-Based Loan Eligibility Assessment
+# Credit Risk Prediction Model: Machine Learning-Based Loan Approval Classification
 
 ## 📊 Project Overview
 
